@@ -1,0 +1,6 @@
+user: admin@admin.com
+pass: admin
+
+3306
+
+nombre de basedatos: proyecto
